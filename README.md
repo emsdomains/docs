@@ -18,7 +18,7 @@ You can try ENS out for yourself now by using the [ENS Manager App](https://app.
 
 ENS has two principal components: the [registry](contract-api-reference/ens.md), and [resolvers](contract-api-reference/publicresolver.md).
 
-![](<.gitbook/assets/ens-architecture (1).png>)
+![](.gitbook/assets/ens-architecture.png)
 
 The ENS registry consists of a single smart contract that maintains a list of all domains and subdomains, and stores three critical pieces of information about each:
 
